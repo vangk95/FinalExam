@@ -4,17 +4,17 @@
   "description": "Simple NodeJS Web App for Final",
   "main": "hello1.js",
   "scripts": {
-  	"start": "node hello1.js",
+    "start": "node hello1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-},
-"repository": {
-	"type": "git",
-	"url": "git+https://github.com/vangk95/IntroTONodeJS.git"
-},
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vangk95/FinalExam.git"
+  },
   "author": "Ka Vang",
   "license": "MIT",
   "bugs": {
-  	"url": "https://github.com/vangk95/IntroTONodeJS/issues"
+    "url": "https://github.com/vangk95/FinalExam/issues"
   },
-  "homepage": "https://github,com/vangk95/IntroTONodeJS#readme"
+  "homepage": "https://github,com/vangk95/FinalExam#readme"
 }
